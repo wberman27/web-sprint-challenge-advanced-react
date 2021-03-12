@@ -82,6 +82,7 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 
 ### Task 4: Stretch Goals
 
+
  **IMPORTANT:** Only work on stretch goals after completing your MVP!
 
  When completing these goals, make sure to use a **new branch** to ensure your MVP code is not overwritten. You can branch off `main` by executing `git checkout -b stretch`. When you are fully sure your stretch code is ready for feedback, merge your stretch code with main using `git checkout main` and `git merge stretch.`
